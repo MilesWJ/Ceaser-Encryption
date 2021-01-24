@@ -14,4 +14,5 @@ def encrypt():
     print(encrpyted_text)
 
 
-encrypt()
+while True:
+    encrypt()
